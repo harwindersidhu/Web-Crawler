@@ -1,0 +1,98 @@
+[
+  {
+    "link": "/samsung-galaxy-f23-5g-forest-green-128-gb/p/itm4001e68fda319?pid=MOBGBKQF3QM4GHWN&lid=LSTMOBGBKQF3QM4GHWNJ56YXY&marketplace=FLIPKART&q=mobiles&store=tyy%2F4io&srno=s_1_1&otracker=search&fm=organic&iid=00427a78-ce6d-4395-8573-27ed6a92b07d.MOBGBKQF3QM4GHWN.SEARCH&ppt=None&ppn=None&ssid=dik5vpuzgg0000001674795527345&qH=eb4af0bf07c16429",
+    "name": "SAMSUNG Galaxy F23 5G (Forest Green, 128 GB)"
+  },
+  {
+    "link": "/samsung-galaxy-f23-5g-copper-blush-128-gb/p/itm59c8bf3255ef6?pid=MOBGE2ZU2YBUAEVZ&lid=LSTMOBGE2ZU2YBUAEVZJXNB2M&marketplace=FLIPKART&q=mobiles&store=tyy%2F4io&srno=s_1_2&otracker=search&fm=organic&iid=00427a78-ce6d-4395-8573-27ed6a92b07d.MOBGE2ZU2YBUAEVZ.SEARCH&ppt=None&ppn=None&ssid=dik5vpuzgg0000001674795527345&qH=eb4af0bf07c16429",
+    "name": "SAMSUNG Galaxy F23 5G (Copper Blush, 128 GB)"
+  },
+  {
+    "link": "/motorola-e40-carbon-gray-64-gb/p/itm0ca635007c9e2?pid=MOBG2EMWUMUFGSZE&lid=LSTMOBG2EMWUMUFGSZEJNGZMU&marketplace=FLIPKART&q=mobiles&store=tyy%2F4io&spotlightTagId=BestsellerId_tyy%2F4io&srno=s_1_3&otracker=search&fm=organic&iid=00427a78-ce6d-4395-8573-27ed6a92b07d.MOBG2EMWUMUFGSZE.SEARCH&ppt=None&ppn=None&ssid=dik5vpuzgg0000001674795527345&qH=eb4af0bf07c16429",
+    "name": "MOTOROLA e40 (Carbon Gray, 64 GB)"
+  },
+  {
+    "link": "/apple-iphone-14-midnight-128-gb/p/itm9e6293c322a84?pid=MOBGHWFHECFVMDCX&lid=LSTMOBGHWFHECFVMDCXBOYSND&marketplace=FLIPKART&q=mobiles&store=tyy%2F4io&srno=s_1_4&otracker=search&fm=organic&iid=00427a78-ce6d-4395-8573-27ed6a92b07d.MOBGHWFHECFVMDCX.SEARCH&ppt=None&ppn=None&ssid=dik5vpuzgg0000001674795527345&qH=eb4af0bf07c16429",
+    "name": "APPLE iPhone 14 (Midnight, 128 GB)"
+  },
+  {
+    "link": "/apple-iphone-14-blue-128-gb/p/itmdb77f40da6b6d?pid=MOBGHWFHSV7GUFWA&lid=LSTMOBGHWFHSV7GUFWA3AV8J8&marketplace=FLIPKART&q=mobiles&store=tyy%2F4io&srno=s_1_5&otracker=search&fm=organic&iid=00427a78-ce6d-4395-8573-27ed6a92b07d.MOBGHWFHSV7GUFWA.SEARCH&ppt=None&ppn=None&ssid=dik5vpuzgg0000001674795527345&qH=eb4af0bf07c16429",
+    "name": "APPLE iPhone 14 (Blue, 128 GB)"
+  },
+  {
+    "link": "/motorola-g62-5g-midnight-gray-128-gb/p/itm37da299ffb2d0?pid=MOBGEDT5ZZMZQZSJ&lid=LSTMOBGEDT5ZZMZQZSJFXDZSQ&marketplace=FLIPKART&q=mobiles&store=tyy%2F4io&srno=s_1_6&otracker=search&fm=organic&iid=00427a78-ce6d-4395-8573-27ed6a92b07d.MOBGEDT5ZZMZQZSJ.SEARCH&ppt=None&ppn=None&ssid=dik5vpuzgg0000001674795527345&qH=eb4af0bf07c16429",
+    "name": "MOTOROLA G62 5G (Midnight Gray, 128 GB)"
+  },
+  {
+    "link": "/poco-c31-royal-blue-32-gb/p/itm9656ebd21e0b3?pid=MOBG73E7ZBHHQ3RB&lid=LSTMOBG73E7ZBHHQ3RBPQ3FU1&marketplace=FLIPKART&q=mobiles&store=tyy%2F4io&spotlightTagId=BestvalueId_tyy%2F4io&srno=s_1_7&otracker=search&fm=organic&iid=00427a78-ce6d-4395-8573-27ed6a92b07d.MOBG73E7ZBHHQ3RB.SEARCH&ppt=None&ppn=None&ssid=dik5vpuzgg0000001674795527345&qH=eb4af0bf07c16429",
+    "name": "POCO C31 (Royal Blue, 32 GB)"
+  },
+  {
+    "link": "/motorola-g62-5g-frosted-blue-128-gb/p/itm556a0153d9a10?pid=MOBGEDT5YQ2YFVTQ&lid=LSTMOBGEDT5YQ2YFVTQQ0KAIT&marketplace=FLIPKART&q=mobiles&store=tyy%2F4io&srno=s_1_8&otracker=search&fm=organic&iid=00427a78-ce6d-4395-8573-27ed6a92b07d.MOBGEDT5YQ2YFVTQ.SEARCH&ppt=None&ppn=None&ssid=dik5vpuzgg0000001674795527345&qH=eb4af0bf07c16429",
+    "name": "MOTOROLA G62 5G (Frosted Blue, 128 GB)"
+  },
+  {
+    "link": "/redmi-note-11-se-cosmic-white-64-gb/p/itm894dab106a9b1?pid=MOBGHBKHJFCAHP7C&lid=LSTMOBGHBKHJFCAHP7CWJDEOM&marketplace=FLIPKART&q=mobiles&store=tyy%2F4io&srno=s_1_9&otracker=search&fm=organic&iid=00427a78-ce6d-4395-8573-27ed6a92b07d.MOBGHBKHJFCAHP7C.SEARCH&ppt=None&ppn=None&ssid=dik5vpuzgg0000001674795527345&qH=eb4af0bf07c16429",
+    "name": "REDMI Note 11 SE (Cosmic White, 64 GB)"
+  },
+  {
+    "link": "/poco-c31-shadow-gray-64-gb/p/itm162375acb8370?pid=MOBG73E7UBFXXMCH&lid=LSTMOBG73E7UBFXXMCHSM0ZN5&marketplace=FLIPKART&q=mobiles&store=tyy%2F4io&srno=s_1_10&otracker=search&fm=organic&iid=00427a78-ce6d-4395-8573-27ed6a92b07d.MOBG73E7UBFXXMCH.SEARCH&ppt=None&ppn=None&ssid=dik5vpuzgg0000001674795527345&qH=eb4af0bf07c16429",
+    "name": "POCO C31 (Shadow Gray, 64 GB)"
+  },
+  {
+    "link": "/infinix-hot-20-play-fantasy-purple-64-gb/p/itm1e6903eb0203e?pid=MOBGK23WAVERAMGZ&lid=LSTMOBGK23WAVERAMGZAZG2VD&marketplace=FLIPKART&q=mobiles&store=tyy%2F4io&srno=s_1_11&otracker=search&fm=organic&iid=00427a78-ce6d-4395-8573-27ed6a92b07d.MOBGK23WAVERAMGZ.SEARCH&ppt=None&ppn=None&ssid=dik5vpuzgg0000001674795527345&qH=eb4af0bf07c16429",
+    "name": "Infinix HOT 20 Play (Fantasy Purple, 64 GB)"
+  },
+  {
+    "link": "/redmi-10-caribbean-green-64-gb/p/itmbfb8dfcdd6e10?pid=MOBGC9GYQGGKWEU3&lid=LSTMOBGC9GYQGGKWEU3SLBNSD&marketplace=FLIPKART&q=mobiles&store=tyy%2F4io&srno=s_1_12&otracker=search&fm=organic&iid=00427a78-ce6d-4395-8573-27ed6a92b07d.MOBGC9GYQGGKWEU3.SEARCH&ppt=None&ppn=None&ssid=dik5vpuzgg0000001674795527345&qH=eb4af0bf07c16429",
+    "name": "REDMI 10 (Caribbean Green, 64 GB)"
+  },
+  {
+    "link": "/redmi-9i-sport-metallic-blue-64-gb/p/itmeb95d0b4616cc?pid=MOBG6WQWQZZMGQCU&lid=LSTMOBG6WQWQZZMGQCUD4GKAH&marketplace=FLIPKART&q=mobiles&store=tyy%2F4io&srno=s_1_13&otracker=search&fm=organic&iid=00427a78-ce6d-4395-8573-27ed6a92b07d.MOBG6WQWQZZMGQCU.SEARCH&ppt=None&ppn=None&ssid=dik5vpuzgg0000001674795527345&qH=eb4af0bf07c16429",
+    "name": "REDMI 9i Sport (Metallic Blue, 64 GB)"
+  },
+  {
+    "link": "/redmi-9i-sport-coral-green-64-gb/p/itmb5e8d8186b602?pid=MOBG6WQWJRFZ5WDG&lid=LSTMOBG6WQWJRFZ5WDGJDTSKF&marketplace=FLIPKART&q=mobiles&store=tyy%2F4io&srno=s_1_14&otracker=search&fm=organic&iid=00427a78-ce6d-4395-8573-27ed6a92b07d.MOBG6WQWJRFZ5WDG.SEARCH&ppt=None&ppn=None&ssid=dik5vpuzgg0000001674795527345&qH=eb4af0bf07c16429",
+    "name": "REDMI 9i Sport (Coral Green, 64 GB)"
+  },
+  {
+    "link": "/poco-m4-pro-cool-blue-128-gb/p/itm98e13f0c82b82?pid=MOBGBTHFBKGG6AVB&lid=LSTMOBGBTHFBKGG6AVBZXCSFJ&marketplace=FLIPKART&q=mobiles&store=tyy%2F4io&srno=s_1_15&otracker=search&fm=organic&iid=00427a78-ce6d-4395-8573-27ed6a92b07d.MOBGBTHFBKGG6AVB.SEARCH&ppt=None&ppn=None&ssid=dik5vpuzgg0000001674795527345&qH=eb4af0bf07c16429",
+    "name": "POCO M4 Pro (Cool Blue, 128 GB)"
+  },
+  {
+    "link": "/motorola-g32-mineral-gray-64-gb/p/itmdcfa4c4022714?pid=MOBGEA3CZ8Z7HWCY&lid=LSTMOBGEA3CZ8Z7HWCYPHBSGA&marketplace=FLIPKART&q=mobiles&store=tyy%2F4io&srno=s_1_16&otracker=search&fm=organic&iid=00427a78-ce6d-4395-8573-27ed6a92b07d.MOBGEA3CZ8Z7HWCY.SEARCH&ppt=None&ppn=None&ssid=dik5vpuzgg0000001674795527345&qH=eb4af0bf07c16429",
+    "name": "MOTOROLA G32 (Mineral Gray, 64 GB)"
+  },
+  {
+    "link": "/motorola-g52-charcoal-grey-128-gb/p/itmea9ebe003e26c?pid=MOBGAKFYFCZJ8JVY&lid=LSTMOBGAKFYFCZJ8JVY99JHKD&marketplace=FLIPKART&q=mobiles&store=tyy%2F4io&srno=s_1_17&otracker=search&fm=organic&iid=00427a78-ce6d-4395-8573-27ed6a92b07d.MOBGAKFYFCZJ8JVY.SEARCH&ppt=None&ppn=None&ssid=dik5vpuzgg0000001674795527345&qH=eb4af0bf07c16429",
+    "name": "MOTOROLA g52 (Charcoal Grey, 128 GB)"
+  },
+  {
+    "link": "/infinix-hot-20-play-racing-black-64-gb/p/itm1e6903eb0203e?pid=MOBGK23WGFWJHRQD&lid=LSTMOBGK23WGFWJHRQD90DLPU&marketplace=FLIPKART&q=mobiles&store=tyy%2F4io&srno=s_1_18&otracker=search&fm=organic&iid=00427a78-ce6d-4395-8573-27ed6a92b07d.MOBGK23WGFWJHRQD.SEARCH&ppt=None&ppn=None&ssid=dik5vpuzgg0000001674795527345&qH=eb4af0bf07c16429",
+    "name": "Infinix HOT 20 Play (Racing Black, 64 GB)"
+  },
+  {
+    "link": "/motorola-g32-satin-silver-64-gb/p/itm264e8f39d3934?pid=MOBGEA3CGNUPBCD2&lid=LSTMOBGEA3CGNUPBCD2ASUJ7J&marketplace=FLIPKART&q=mobiles&store=tyy%2F4io&srno=s_1_19&otracker=search&fm=organic&iid=00427a78-ce6d-4395-8573-27ed6a92b07d.MOBGEA3CGNUPBCD2.SEARCH&ppt=None&ppn=None&ssid=dik5vpuzgg0000001674795527345&qH=eb4af0bf07c16429",
+    "name": "MOTOROLA G32 (Satin Silver, 64 GB)"
+  },
+  {
+    "link": "/motorola-e40-pink-clay-64-gb/p/itm5d6f2871d1bbf?pid=MOBG2EMW2ZUR4BFG&lid=LSTMOBG2EMW2ZUR4BFG7CQBAI&marketplace=FLIPKART&q=mobiles&store=tyy%2F4io&srno=s_1_20&otracker=search&fm=organic&iid=00427a78-ce6d-4395-8573-27ed6a92b07d.MOBG2EMW2ZUR4BFG.SEARCH&ppt=None&ppn=None&ssid=dik5vpuzgg0000001674795527345&qH=eb4af0bf07c16429",
+    "name": "MOTOROLA e40 (Pink Clay, 64 GB)"
+  },
+  {
+    "link": "/infinix-hot-20-play-aurora-green-64-gb/p/itm1e6903eb0203e?pid=MOBGK23WWFC8SUZZ&lid=LSTMOBGK23WWFC8SUZZTMFJG8&marketplace=FLIPKART&q=mobiles&store=tyy%2F4io&srno=s_1_21&otracker=search&fm=organic&iid=00427a78-ce6d-4395-8573-27ed6a92b07d.MOBGK23WWFC8SUZZ.SEARCH&ppt=None&ppn=None&ssid=dik5vpuzgg0000001674795527345&qH=eb4af0bf07c16429",
+    "name": "Infinix HOT 20 Play (Aurora Green, 64 GB)"
+  },
+  {
+    "link": "/poco-c31-shadow-gray-32-gb/p/itmffefb8bb085e3?pid=MOBG73E7VZH7XHJY&lid=LSTMOBG73E7VZH7XHJYYXFO9I&marketplace=FLIPKART&q=mobiles&store=tyy%2F4io&spotlightTagId=BestvalueId_tyy%2F4io&srno=s_1_22&otracker=search&fm=organic&iid=00427a78-ce6d-4395-8573-27ed6a92b07d.MOBG73E7VZH7XHJY.SEARCH&ppt=None&ppn=None&ssid=dik5vpuzgg0000001674795527345&qH=eb4af0bf07c16429",
+    "name": "POCO C31 (Shadow Gray, 32 GB)"
+  },
+  {
+    "link": "/apple-iphone-14-starlight-128-gb/p/itm3485a56f6e676?pid=MOBGHWFHABH3G73H&lid=LSTMOBGHWFHABH3G73HRLIX56&marketplace=FLIPKART&q=mobiles&store=tyy%2F4io&srno=s_1_23&otracker=search&fm=organic&iid=00427a78-ce6d-4395-8573-27ed6a92b07d.MOBGHWFHABH3G73H.SEARCH&ppt=None&ppn=None&ssid=dik5vpuzgg0000001674795527345&qH=eb4af0bf07c16429",
+    "name": "APPLE iPhone 14 (Starlight, 128 GB)"
+  },
+  {
+    "link": "/apple-iphone-11-white-64-gb/p/itmfc6a7091eb20b?pid=MOBFWQ6BVWVEH3XE&lid=LSTMOBFWQ6BVWVEH3XEMXQMLO&marketplace=FLIPKART&q=mobiles&store=tyy%2F4io&srno=s_1_24&otracker=search&fm=organic&iid=00427a78-ce6d-4395-8573-27ed6a92b07d.MOBFWQ6BVWVEH3XE.SEARCH&ppt=None&ppn=None&ssid=dik5vpuzgg0000001674795527345&qH=eb4af0bf07c16429",
+    "name": "APPLE iPhone 11 (White, 64 GB)"
+  }
+]

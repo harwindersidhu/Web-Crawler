@@ -1,13 +1,14 @@
 const request = require("request");
 const cheerio = require("cheerio");
+const fs = require("fs");
 
 const URL = "https://www.flipkart.com/search?q=mobiles";
-const arr = [];
 
 request(URL, (err, res, body) => {
   if (err) {
     console.log(err, "error occurred while hitting URL");
   } else {
+    const arr = [];
     let $ = cheerio.load(body); //loading of complete HTML body
 
     $("div._1AtVbE > div._13oc-S").each(function (index) {
@@ -17,9 +18,15 @@ request(URL, (err, res, body) => {
         link: link,
         name: name,
       };
-      //console.log(obj);
-      arr.push(JSON.stringify(obj));
+      arr.push(obj);
+    });
+    console.log(arr.toString());
+    fs.writeFile("data.txt", JSON.stringify(arr, null, 2), function (err) {
+      if (err) {
+        console.log(err);
+      } else {
+        console.log("success");
+      }
     });
   }
-  console.log(arr);
 });
